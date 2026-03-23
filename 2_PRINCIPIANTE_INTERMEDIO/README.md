@@ -19,7 +19,7 @@ Trabajar:
 
 ## 📂 Ejercicios
 
-* 💳 Cajero automático
+* 💳 [Cajero automático](./01_cajero_automatico/)
 
 ## 🚀 Siguiente paso
 

@@ -19,7 +19,7 @@ Practicar:
 
 ## 📂 Ejercicios
 
-* 🧮 Calculadora simple
+* 🧮 [Calculadora simple](./01_calculadora_simple/)
 
 ## 🚀 Siguiente paso
 
