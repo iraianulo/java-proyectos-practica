@@ -27,6 +27,6 @@ Mejorar habilidades en Java mediante práctica real y repetición activa.
 
 ## 📂 Estructura
 
-- 🟢 [Iniciación](./INICIACIÓN)
-- 🟡 [Principiante](./PRINCIPIANTE)
-- 🟠 [Principiante - Intermedio](./PRINCIPIANTE-INTERMEDIO)
+- 🟢 [Iniciación](./0_INICIACION)
+- 🟡 [Principiante](./1_PRINCIPIANTE)
+- 🟠 [Principiante - Intermedio](./2_PRINCIPIANTE_INTERMEDIO)
