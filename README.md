@@ -24,3 +24,9 @@ Repositorio de ejercicios prácticos en Java diseñados para practicar y rehacer
 ## 📈 Objetivo
 
 Mejorar habilidades en Java mediante práctica real y repetición activa.
+
+## 📂 Estructura
+
+- 🟢 [Iniciación](./INICIACIÓN)
+- 🟡 [Principiante](./PRINCIPIANTE)
+- 🟠 [Principiante - Intermedio](./PRINCIPIANTE-INTERMEDIO)
