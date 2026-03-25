@@ -20,6 +20,7 @@ Trabajar:
 ## 📂 Ejercicios
 
 * 💳 [Cajero automático](./01_cajero_automatico/)
+* 🎁 [Amigo Invisible](./02_amigo_invisible/)
 
 ## 🚀 Siguiente paso
 
